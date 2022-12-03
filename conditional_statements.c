@@ -49,4 +49,6 @@ void main() {
 
     // ! operator
     printf("%d", !(a > b));
+
+    // end of code
 }
