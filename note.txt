@@ -1,0 +1,11 @@
+// Data Types - int, float, char, string
+/* Operators
+Arithmetic - +, -, *, /, %
+Assignment - =
+Relational - ==, !=, >, <, >=, <=
+Logical - && - AND, || - OR, ! - NOT
+Bitwise - &, |, !
+Conditional - turnary -> a > b ? a : b
+*/
+
+// ==<<==
